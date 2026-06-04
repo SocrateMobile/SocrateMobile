@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @SocrateMobile
-- 👀 I’m interested in automation (Home Assistant, Jeedom, Tuya, Eweelink...)
-     and 3D Printing (Ender 5)
-- 🌱 I’m currently learning ...Yaml & ESPHome and how to 3D print
-- 💞️ I’m looking to collaborate on project developpement 
-- 📫 You can reach me on socratemobile@protonmail.com
+Hello, I'm @SocrateMobile! 👋
 
-<!---
-SocrateMobile/SocrateMobile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+ 👀 Automation Enthusiast: Passionate about smart home ecosystems, including Home Assistant, Jeedom, Tuya, and eWeLink.
+🌱 Maker: Exploring the world of 3D printing with my Ender 5.
+💞️ Currently Learning: Deepening my skills in YAML, ESPHome, and advanced 3D printing techniques.
+C  ollaboration: I’m always open to collaborating on development projects—let's build something great together!
+
+Get in Touch
+📧 Email: socratemobile@protonmail.com

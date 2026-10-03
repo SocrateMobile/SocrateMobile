@@ -18,7 +18,7 @@ Je suis toujours ouvert aux collaborations sur de nouveaux projets de développe
 📫 Me contacter
 📧 Email : socratemobile@protonmail.com
 
-🇬🇧 Version Anglaise (Idéale pour une portée internationale sur GitHub)
+🇬🇧 Version Anglaise 
 Hi there, I'm @SocrateMobile! 👋
 Automation Enthusiast | Maker | Developer
 

@@ -1,6 +1,6 @@
 🇫🇷 Version Française
-Salut, je suis @SocrateMobile ! 👋
-Passionné d'Automatisation | Maker | Développeur
+Salut, je suis @SocrateMobile ! 
+👋 Passionné d'Automatisation | Maker | Développeur
 
 🛠️ À propos de moi
 🏠 Domotique : Création et optimisation d'écosystèmes intelligents sur mesure (Home Assistant, Jeedom, Tuya, eWeLink).
@@ -17,8 +17,8 @@ Construisons quelque chose de grand ensemble !
 📧 Email : jfl95880@gmail.com
 
 🇬🇧 Version Anglaise 
-Hi there, I'm @SocrateMobile! 👋
-Automation Enthusiast | Maker | Developer
+Hi there, I'm @SocrateMobile! 
+👋 Automation Enthusiast | Maker | Developer
 
 🛠️ About Me
 🏠 Smart Home Explorer: Passionate about building and optimizing home ecosystems (Home Assistant, Jeedom, Tuya, eWeLink).

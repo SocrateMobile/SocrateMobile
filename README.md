@@ -6,6 +6,7 @@
 ### 🛠️ À propos de moi
 - 🏠 **Domotique :** Création et optimisation d'écosystèmes intelligents sur mesure (Home Assistant, ESPHome, Tuya, eWeLink...).
 - 🖨️ **Maker :** Modélisation et impression 3D pour donner vie à mes projets (Ender 5).
+- ⚙️ **Coder :** J'ai une bonne vision de ce qu'il me faut, l'IA reste mon meilleur amis pour le réaliser.
 
 ### 🌱 Actuellement en train d'apprendre
 - ⚙️ Perfectionnement des configurations YAML et ESPHome.
@@ -29,6 +30,7 @@ Construisons quelque chose de grand ensemble !
 ### 🛠️ About Me
 - 🏠 **Smart Home Explorer:** Passionate about building and optimizing home ecosystems (Home Assistant, ESPHome, Tuya, eWeLink...).
 - 🖨️ **Maker:** Bringing ideas to life through 3D printing with my Ender 5.
+- ⚙️ **Coder :** I have a clear idea of what I need, and AI remains my best friend to make it happen.
 
 ### 🌱 Currently Learning
 - ⚙️ Deepening my knowledge in YAML and ESPHome.
